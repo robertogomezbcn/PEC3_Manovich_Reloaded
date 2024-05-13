@@ -32,3 +32,8 @@ Strava utiliza la geolocalización no solo para rastrear el rendimiento, sino pa
 
 
 ![Logo de Duolingo](https://design.duolingo.com/7d3b95abf67001cde6ea.svg)
+
+
+### Referencias y Bibliografía
+
+-   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
