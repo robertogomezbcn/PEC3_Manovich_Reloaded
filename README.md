@@ -36,7 +36,6 @@ Como se puede observar, Strava es en esencia, una plataforma de hibridación.
 > "La hibridación de medios se refiere a la combinación de diferentes estilos y medios para crear nuevos modos de expresión.” (Manovich, 2013)
 
 
-
 ## Duolingo, aprendiendo idiomas en la era digital
 ![Logo de Duolingo](https://design.duolingo.com/7d3b95abf67001cde6ea.svg)
 
