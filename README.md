@@ -14,9 +14,7 @@ Explorando este concepto a través de aplicaciones modernas, Strava y Duolingo s
 
 ![Intarfaz de Strava](https://d3nn82uaxijpm6.cloudfront.net/assets/website/mobile/img-mobile-phones-58745fa9bd930b07f7a53d21d8a245915c6a851aab426b17833ea19d5041bb86.jpg)
 
-Strava se presenta como una aplicación para monitorizar actividades físicas, pero su **verdadera esencia** nos muestra una compleja hibridación de medios. Esta aplicación **combina** redes sociales, sistema de geolocalización y gamificación. A primera vista, parece que Strava sea una simple aplicación que registra rutas para amantes de la bicicleta o el running, sin embargo, a un nivel más profundo, existe toda una comunidad interactiva donde los logros individuales se socializan mediante comentarios, retos y “kudos”, que vienen a ser los likes de Strava. Strava es en esencia una plataforma de hibridación.
-
-> "La hibridación de medios se refiere a la combinación de diferentes estilos y medios para crear nuevos modos de expresión.” (Manovich, 2013)
+Strava se presenta como una aplicación para monitorizar actividades físicas, pero su **verdadera esencia** nos muestra una compleja hibridación de medios. Esta aplicación **combina** redes sociales, sistema de geolocalización y gamificación. A primera vista, parece que Strava sea una simple aplicación que registra rutas para amantes de la bicicleta o el running, sin embargo, a un nivel más profundo, existe toda una comunidad interactiva donde los logros individuales se socializan mediante comentarios, retos y “kudos”, que vienen a ser los likes de Strava. 
 
 
 **Hibridación de Tecnologías y Comunidad**
