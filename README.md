@@ -14,6 +14,20 @@ Explorando este concepto a través de aplicaciones modernas, Strava y Duolingo s
 
 ![Intarfaz de Strava](https://d3nn82uaxijpm6.cloudfront.net/assets/website/mobile/img-mobile-phones-58745fa9bd930b07f7a53d21d8a245915c6a851aab426b17833ea19d5041bb86.jpg)
 
+Strava se presenta como una aplicación para monitorizar actividades físicas, pero su **verdadera esencia** nos muestra una compleja hibridación de medios. Esta aplicación **combina** redes sociales, sistema de geolocalización y gamificación. A primera vista, parece que Strava sea una simple aplicación que registra rutas para amantes de la bicicleta o el running, sin embargo, a un nivel más profundo, existe toda una comunidad interactiva donde los logros individuales se socializan mediante comentarios, retos y “kudos”, que vienen a ser los likes de Strava.
+
+**Hibridación de Tecnologías y Comunidad**
+
+Strava utiliza la geolocalización no solo para rastrear el rendimiento, sino para conectar personas. Los "segmentos"; tramos específicos donde los usuarios compiten virtualmente, son un claro ejemplo de cómo se integran medios físicos y virtuales. La interfaz combina mapas, tablas de líderes y elementos de redes sociales, creando una experiencia cohesionada que trasciende más allá del simple ejercicio físico. Strava se convertirse en una plataforma de motivación y reconocimiento mutuo de una comunidad afín conectada gracias a la tecnología.
+
+1.  **La comunidad Strava**
+
+-   Los usuarios no solo comparten sus rendimientos sino que existe una **interacción social** a través de 'kudos' y comentarios, similar a las interacciones en plataformas como Facebook o Instagram. A su vez, utilizan **segmentos y competencias** para competir virtualmente en tramos específicos, donde los resultados se comparan con los de otros usuarios, creando un ambiente de competición entre los deportistas.
+
+2.  **La tecnología de Strava**
+
+-   Strava utiliza geolocalización avanzada tanto para rastrear rutas como para conectar a las personas en eventos y actividades afines. También ofrece análisis de datos muy detallados sobre el rendimiento que ayudan a los usuarios a entender y mejorar su condición física.
+
 ## Duolingo, aprendiendo idiomas en la era digital
 
 
