@@ -18,7 +18,9 @@ Strava se presenta como una aplicación para monitorizar actividades físicas, p
 
 **Hibridación de Tecnologías y Comunidad**
 
-Strava utiliza la geolocalización no solo para rastrear el rendimiento, sino para conectar personas. Los "segmentos"; tramos específicos donde los usuarios compiten virtualmente, son un claro ejemplo de cómo se integran medios físicos y virtuales. La interfaz combina mapas, tablas de líderes y elementos de redes sociales, creando una experiencia cohesionada que trasciende más allá del simple ejercicio físico. Strava se convertirse en una plataforma de motivación y reconocimiento mutuo de una comunidad afín conectada gracias a la tecnología.
+Strava utiliza la geolocalización no solo para rastrear el rendimiento, sino para conectar personas. Los "segmentos"; tramos específicos donde los usuarios compiten virtualmente, son un claro ejemplo de cómo se integran medios físicos y virtuales. La interfaz combina mapas, tablas de líderes y elementos de redes sociales, creando una experiencia cohesionada que trasciende más allá del simple ejercicio físico. Strava se convertirse en una plataforma de motivación y reconocimiento mutuo de una comunidad afín conectada gracias a la tecnología. En esencia es una plataforma de hibridación.
+
+> "La hibridación de medios se refiere a la combinación de diferentes estilos y medios para crear nuevos modos de expresión.” (Manovich, 2013)
 
 1.  **La comunidad Strava**
 
@@ -29,8 +31,6 @@ Strava utiliza la geolocalización no solo para rastrear el rendimiento, sino pa
 -   Strava utiliza geolocalización avanzada tanto para rastrear rutas como para conectar a las personas en eventos y actividades afines. También ofrece análisis de datos muy detallados sobre el rendimiento que ayudan a los usuarios a entender y mejorar su condición física.
 
 ## Duolingo, aprendiendo idiomas en la era digital
-
-
 ![Logo de Duolingo](https://design.duolingo.com/7d3b95abf67001cde6ea.svg)
 
 
