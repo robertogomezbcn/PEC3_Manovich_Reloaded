@@ -37,6 +37,25 @@ Como se puede observar, Strava es en esencia, una plataforma de hibridación.
 ## Duolingo, aprendiendo idiomas en la era digital
 ![Logo de Duolingo](https://design.duolingo.com/7d3b95abf67001cde6ea.svg)
 
+Duolingo ha conseguido revolucionar el aprendizaje de idiomas al integrar técnicas de gamificación en su manera de enseñar. A través de niveles, puntos de experiencia (XP), y recompensas, ha transformado la educación en una actividad divertida y que consigue retener el interés del usuario mucho más que los métodos tradicionales. 
+
+**Una Fusión de Pedagogía y Tecnología**
+
+Duolingo utiliza la inteligencia artificial para personalizar sus lecciones, reforzando habilidades lingüísticas a través de ejercicios interactivos en los que se puede escuchar, hablar, leer o escribir. Esta hibridación se manifiesta en la unión de diferentes tipos de tecnologías educativas con interfaces muy intuitivas, permitiendo a los usuarios aprender a su propio ritmo, en cualquier momento y lugar, y recibir retroalimentación instantánea. 
+
+**Hibridación en Duolingo: Revolución en el Aprendizaje de Idiomas**
+
+Según Manovich, "los nuevos medios permiten la creación de estructuras y experiencias antes imposibles", y Duolingo es un claro ejemplo de esta revolución en acción. La aplicación utiliza elementos lúdicos como niveles, puntos de experiencia (XP) y recompensas para transformar el aprendizaje en una experiencia adictiva que mejora la retención y motivación de los alumnos. Esta combinación de pedagogía y juego refleja un enfoque moderno y efectivo en la educación. Además, la inteligencia artificial personaliza las lecciones según las necesidades específicas de cada usuario, lo que no solo mejora la eficacia del aprendizaje, sino que también representa la evolución hacia métodos de enseñanza más adaptativos y personalizados.
+
+En el caso de Duolingo se observa claraémte como se está hibridando elementos de gamificación, elementos de narrativa y elementos de colaboración y socialización. 
+
+## Conclusiones
+
+Strava y Duolingo ilustran perfectamente la visión de Manovich sobre la hibridación en la cultura digital. Muestran cómo la fusión de tecnologías y metodologías puede crear experiencias y formas de expresión novedosas. Estas aplicaciones no solo transforman sus respectivos sectores (la actividad física y el aprendizaje de idiomas) sino que también enriquecen las interacciones humanas y facilitan un aprendizaje continuo. Si miramos a estas aplicaciones a traves de las "gafas de Manovich", observamos que:
+
+Strava convierte el ejercicio individual en una **experiencia comunitaria y competitiva**, ampliando el concepto tradicional de actividad física.
+Por otra parte, Duolingo **reimagina la educación lingüística** como una experiencia dinámica y personalizada, transformando el aprendizaje en una actividad divertida.
+Ambos ejemplos demuestran que la hibridación no es solo una característica de la era digital. Tal y como lo describe Manovich, la hibridación es crucial para el avance y la adaptación en nuestra sociedad, y estas plataformas reflejan una nueva era donde la tecnología se entrelaza de manera innovadora y significativa con la vida cotidiana.
 
 ### Referencias y Bibliografía
 
