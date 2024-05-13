@@ -1,2 +1,3 @@
-# PEC3_Manovich_Reloaded
-PEC 3. Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
+# PEC3: Visionando el futuro con las gáfas de Manovich
+<b>Autor</b>:  Roberto Gómez Artime
+Fecha: 13/05/2024
