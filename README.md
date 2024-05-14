@@ -59,10 +59,11 @@ Ambos ejemplos demuestran que la hibridación no es solo una característica de 
 
 ### Referencias y Bibliografía
 
--   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
+-   Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
 -   Cronista. Aprender idiomas con el celular: el rol clave que hoy tiene la gamificación. Infotechnology. Enlace [aquí](https://www.cronista.com/infotechnology/actualidad/aprender-idiomas-con-el-celular-el-rol-clave-que-hoy-tiene-la-gamificacion/)
 -   Duolingo. Inicio. Recuperado el 13 de mayo de 2024. Enlace [aquí](https://es.duolingo.com/)
 -   ViewSonic. (s. f.). Aprendizaje híbrido: Una lista completa de recursos esenciales. Enlace [Aquí](https://www.viewsonic.com/library/es/educacion/aprendizaje-hibrido-una-lista-completa-de-recursos-esenciales/)
 -   Zarco, J. (2010). [Título del documento]. IV Congreso Internacional de Psicología y Educación. Enlace [Aquí](https://repositori.uji.es/xmlui/bitstream/handle/10234/31656/Zarco_IVCongreso.pdf?sequence=1)
 -   Maillot Mag. (2023). Las nuevas funciones de Strava: puntos de interés en los mapas 3D, híbridos y satélite. Enlace [Aquí](https://www.maillotmag.com/actualidad/las-nuevas-funciones-de-strava-puntos-de-interes-en-los-mapas-3d-hibridos-y-satelite)
--   
+-   Autor desconocido. (s.f.). Aprende idiomas desde casa con Duolingo y la inteligencia artificial como aliadas. Bilib. Enlace [Aquí](https://www.bilib.es/actualidad/articulos-tecnologicos/post/noticia/aprende-idiomas-desde-casa-con-duolingo-y-la-inteligencia-artificial-como-aliadas)
+-   Fernández, Mireya. Merino, Elena. (s.f.). [La explotación didáctica del léxico en Duolingo: Repetición, traducción y gamificación el el curso de ELE]. ASELE. Enlace [Aquí](https://cvc.cervantes.es/ensenanza/biblioteca_ele/asele/pdf/28/28_0018.pdf)
